@@ -1,7 +1,7 @@
-#include <iostream>
+#include<stdio.h>
 
 int main(void)
 {
-	std::cout << "hello world!\n";
+	printf("Hello World!");
 	return 0;
 }
